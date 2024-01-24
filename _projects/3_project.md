@@ -3,7 +3,7 @@ layout: page
 title: valorant project
 description: a project about valorant
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://playvalorant.com
 category: gaming
 ---
 
