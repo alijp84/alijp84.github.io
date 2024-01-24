@@ -1,7 +1,7 @@
 ---
 layout: page
 title: galaxy project 
-description: a project with about galaxy
+description: a project about galaxy
 img: assets/img/ziba.jpg
 category: work
 ---
