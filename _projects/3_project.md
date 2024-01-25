@@ -2,7 +2,7 @@
 layout: page
 title: valorant project
 description: a project about valorant
-img: assets/img/7.jpg
+img: assets/img/valorant.jpg
 redirect: https://playvalorant.com
 category: gaming
 ---
